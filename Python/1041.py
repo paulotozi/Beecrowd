@@ -38,3 +38,4 @@ if(y == 0):
     if(x != 0):
 
         print("Eixo X")
+        
