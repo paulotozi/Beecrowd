@@ -27,3 +27,4 @@ if(s > 2000):
 
     i = float(i)
     print("R$ {:.2f}".format(i))
+    
