@@ -1,6 +1,5 @@
 N = int(input())
 arr = input().split()
-print(N)
 menor = 1000
 idx = 0
 
