@@ -1,11 +1,4 @@
-arr_temp = []
-arr = [0.0] * 4
-c = 4
-i = 0
-
-while(i != 4):
-
-    N = int(input())
-    arr[i] = [N]
-    print(arr[i])
-    i += 1
+print(123456789012345 / 1)
+print(123456789012345 / 2)
+print(123456789012345 / 3)
+print(123456789012345 / 4)
