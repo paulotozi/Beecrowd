@@ -9,12 +9,12 @@ for i in range(12):
         N = float(input())
         M[i].append(N)
 
-c = 12
+c = 0
 s = 0
 count = 0
 for i in range(11):
 
-    c -=1
+    c +=1
     for j in range(c):
 
         s += M[i][j]
