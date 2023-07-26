@@ -24,9 +24,9 @@ public class p2 {
             numbers[j] = " ";
             temp_s += " ";
             System.out.print("\n"); 
-            
+        sc.close();    
         }
-        sc.close();
+        
 
     }
 
