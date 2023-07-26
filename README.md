@@ -1,2 +1,2 @@
 # Beecrowd
-Beecrowd website answers in Python, Java and C/C++.
+Beecrowd website answers in Python, Java, Javascript and C/C++.
